@@ -24,7 +24,7 @@ I’m Renard Owiti, an IT graduate with a strong passion for:
 I’m currently building and refining front-end projects while exploring backend and cloud technologies.
 
 🚀 Live Preview
-https://blackleg.netlify.app/ — Deployed version on GitHub Pages or Netlify
+https://blackleg.netlify.app/ — Deployed version on Netlify
 
 💡 Want to see it live? Clone the repo and open index.html in your browser.
 
