@@ -1,76 +1,60 @@
-📌 Renard Owiti | Portfolio Website
-Welcome to my personal developer portfolio! This is a responsive, HTML and CSS-only website that showcases my journey, skills, and featured projects as an IT graduate passionate about technology, software development, and problem-solving.
+# 🧑‍💻 Renard Owiti – Frontend Portfolio Site
 
-🎯 Purpose
-This portfolio was built as part of a hackathon challenge to demonstrate:
+Welcome to my personal web development portfolio, built entirely with **HTML5 and CSS** for the **PLP Hackathon 2025**.
 
-Clean, readable HTML and CSS
+This project reflects my journey as an aspiring web developer and IT professional, focusing on **clean**, **accessible**, and **responsive design**. It highlights my strengths, creativity, and a commitment to delivering real-world solutions through code.
 
-Creative layout and responsiveness
+---
 
-Real-world project experience
+## 🔗 Live Preview
 
-Professional presentation and documentation
+You can view the live site here:
 
-🧑‍💻 About Me
-I’m Renard Owiti, an IT graduate with a strong passion for:
+👉 [Portfolio Website (Netlify)](https://blackleg.netlify.app/)
 
-👨‍💻 Web Development
+---
 
-🛠️ IT Support
+## 👨‍💼 About Me
 
-🌐 Network Engineering
+I’m **Renard Owiti**, an IT graduate and web development enthusiast with a passion for:
+- 💻 Crafting clean front-end designs  
+- 🛠️ Building tools that solve real-world problems  
+- 🌐 Exploring IT support and network engineering  
 
-I’m currently building and refining front-end projects while exploring backend and cloud technologies.
+I enjoy building user-focused projects that blend functionality with elegant design. Whether it's scheduling appointments or managing loans, my projects aim to make everyday tasks simpler and smarter.
 
-🚀 Live Preview
-https://blackleg.netlify.app/ — Deployed version on Netlify
+---
 
-💡 Want to see it live? Clone the repo and open index.html in your browser.
+## 🚀 Featured Projects
 
-🛠️ Tech Stack
-HTML5
+| Project | Description | Link |
+|--------|-------------|------|
+| **Medical Appointment System** | Doctor-patient scheduling platform built using VB.NET | [View on GitHub](https://github.com/Rennar77/Appointment-System) |
+| **MicroFinance App** | Handles user loan requests and repayments | [View on GitHub](https://github.com/Rennar77/microfinanceapp) |
+| **E-commerce Platform** | Simple online store using HTML/CSS | [View on GitHub](https://github.com/Rennar77/crispy_eureka) |
+| **This Portfolio** | The site you're viewing now | [View Repository](https://github.com/portfolio) |
 
-CSS3
+---
 
-Responsive Web Design
+## 🧰 Tools & Technologies
 
-Git & GitHub
+- HTML5
+- CSS3
+- Git & GitHub
+  
 
-📂 Features
-🎨 Clean, modern UI with responsive layout
+---
 
-🗂️ Projects displayed as individual tiles
 
-📄 Button to download my CV
 
-🔗 Links to GitHub-hosted project repositories
+## 📫 Contact
 
-💬 Contact section with email and GitHub profile
+Feel free to connect or collaborate:
 
-📁 Project Highlights
-Project	Description
-Medical Appointment System	A web-based system to manage doctor-patient scheduling using VB.NET
-E-Commerce Platform	A simple online shop built using HTML and CSS
-MicroFinance App	App to request and manage loans and eligibility
-This Portfolio	Designed to showcase my work and professional interests
+- **Email:** [renardowiti@gmail.com](mailto:renardowiti@gmail.com)  
+- **GitHub:** [@Rennar77](https://github.com/Rennar77)
 
-📥 Download & View
-To preview the project locally:
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/Rennar77/portfolio.git
-cd portfolio-website
-open index.html (or double click)
-No installation required — 100% HTML & CSS.
-
-📫 Contact Me
-📧 Email: renardowiti@gmail.com
-
-💻 GitHub: @Rennar77
-
-✅ License
-This project is open source and free to use for learning and inspiration. Just give credit if you use parts of it!
-
+> ✨ Thank you for taking time to explore my work!  
+> I'm always looking to grow and contribute to exciting tech projects.
